@@ -1,9 +1,6 @@
 import type { NextPage } from "next";
 const IndexPage: NextPage = () => {
-  return (
-    <div>
-    </div>
-  );
+  return <div>hey there</div>;
 };
 
 export default IndexPage;
